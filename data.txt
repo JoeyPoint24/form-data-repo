@@ -1,3 +1,0 @@
-Name: null
-Email: null
-Phone: null
